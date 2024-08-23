@@ -7,10 +7,7 @@ This project demonstrates how to use Selenium for end-to-end testing in a Node.j
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running Tests](#running-tests)
-- [Folder Structure](#folder-structure)
-- [Writing Tests](#writing-tests)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Prerequisites
 
